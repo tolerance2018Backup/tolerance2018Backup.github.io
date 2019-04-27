@@ -20,9 +20,9 @@ title                    : "가까운 교회 홈페이지" # 타이틀명
 title_separator          : "-"
 name                     : "가까운 교회" // 사이트 이름
 description              : "가까운 교회의 정보를 공유하는 홈페이지입니다." # 설명
-url                      : https://tolerance2018backup.github.io/ # 주소
+url                      : "https://tolerance2018backup.github.io/" # 주소
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : tolerance2018backup/tolerance2018backup.github.io # 저장소위치
+repository               : "tolerance2018backup/tolerance2018backup.github.io" # 저장소위치
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
