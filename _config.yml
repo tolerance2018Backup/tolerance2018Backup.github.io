@@ -19,7 +19,7 @@ locale                   : "Ko"
 title                    : "가까운 교회 홈페이지"
 title_separator          : "-"
 name                     : "가까운 교회"
-description              : "An amazing website."
+description              : "가까운 교회를 소개하는 홈페이지 입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -64,7 +64,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "안병훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "가까운 교회 목사 & 북산책 카페 CEO"
   location         : "Somewhere"
   email            :
   links:
