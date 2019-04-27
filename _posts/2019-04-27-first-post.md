@@ -21,14 +21,3 @@ search: false
 
 시작이 반이라는데... 아싸 .. 
 화이팅  
-
-```yaml
-algolia:
-  # Exclude more files from indexing
-  files_to_exclude:
-    - index.html
-    - index.md
-    - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
-    - subdirectory/*.html
-```
